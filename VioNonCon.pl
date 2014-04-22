@@ -22,7 +22,7 @@ use Roman;
 # Revised on 8/26/2011 by Amrit D. Patel                           #
 #                                                                  #
 # -Added ability to process PDF files directly. User no longer     #
-#  needs to convert to ascii text .                                #
+#  needs to convert to ascii text.                                 #
 #                                                                  #
 # -Improved filter performance; false positives were reduced as    #
 #  well as misses.                                                 #
